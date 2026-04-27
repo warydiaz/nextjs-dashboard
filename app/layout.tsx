@@ -3,9 +3,9 @@ import { inter } from "@/app/ui/fonts";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
- title: {
-    template: '%s | Angel Díaz Dashboard',
-    default: 'Acme Dashboard',
+  title: {
+    template: "%s | Angel Díaz Dashboard",
+    default: "Acme Dashboard",
   },
   description: "The official dashboard for Angel Díaz.",
   metadataBase: new URL("https://next-learn-dashboard.vercel.sh"),
